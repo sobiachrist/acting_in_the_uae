@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "title": "Lead Role in Feature Film",
+    "description": "We are seeking a talented actor for the lead role in our upcoming feature film. Must have strong acting skills and experience in dramatic roles. Auditions will be held next month.",
+    "location": "Los Angeles, CA",
+    "salary": "Negotiable",
+    "requirements": [
+      "Strong acting skills",
+      "Experience in dramatic roles",
+      "Availability for auditions next month"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Supporting Role in TV Series",
+    "description": "Looking for an actor to play a supporting role in our new TV series. Must be able to work well in an ensemble cast and have experience in episodic television. Auditions start next week.",
+    "location": "New York City, NY",
+    "salary": "Competitive",
+    "requirements": [
+      "Experience in episodic television",
+      "Ability to work well in an ensemble cast",
+      "Availability for auditions next week"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Voiceover Artist for Animated Film",
+    "description": "We are casting for a voiceover artist to provide the voice for a character in our upcoming animated film. Must have experience in voice acting and be able to bring the character to life.",
+    "location": "Remote",
+    "salary": "Per project",
+    "requirements": [
+      "Experience in voice acting",
+      "Ability to bring characters to life",
+      "Access to recording equipment"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Lead Singer for Rock Band",
+    "description": "Rock band seeking lead singer for upcoming tour. Must have powerful vocals and stage presence. Auditions will be held next week.",
+    "location": "Nashville, TN",
+    "salary": "Negotiable",
+    "requirements": [
+      "Powerful vocals",
+      "Stage presence",
+      "Availability for auditions next week"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Dancer for Music Video",
+    "description": "Looking for a dancer to perform in a music video for a popular artist. Must have strong dance skills and be comfortable performing in front of a camera.",
+    "location": "Los Angeles, CA",
+    "salary": "Per project",
+    "requirements": [
+      "Strong dance skills",
+      "Comfortable performing in front of a camera"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Model for Fashion Show",
+    "description": "Fashion show casting for models to showcase new designer collections. Must have runway experience and be able to work well with stylists and designers.",
+    "location": "New York City, NY",
+    "salary": "Per show",
+    "requirements": [
+      "Runway experience",
+      "Ability to work with stylists and designers"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Stunt Performer for Action Movie",
+    "description": "Action movie casting for stunt performers for high-octane action scenes. Must have experience in stunt work and be comfortable with physical demands.",
+    "location": "Los Angeles, CA",
+    "salary": "Negotiable",
+    "requirements": [
+      "Experience in stunt work",
+      "Comfortable with physical demands"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Comedian for Comedy Club",
+    "description": "Comedy club seeking comedian for upcoming performances. Must have strong comedic timing and original material. Auditions will be held next month.",
+    "location": "Chicago, IL",
+    "salary": "Per show",
+    "requirements": [
+      "Strong comedic timing",
+      "Original material",
+      "Availability for auditions next month"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "TV Presenter for News Program",
+    "description": "News program casting for TV presenter to anchor daily news broadcasts. Must have experience in broadcast journalism and be comfortable reporting live.",
+    "location": "Washington, D.C.",
+    "salary": "Competitive",
+    "requirements": [
+      "Experience in broadcast journalism",
+      "Comfortable reporting live"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Background Actor for Film",
+    "description": "Film casting for background actors for various scenes. No experience necessary, but must be comfortable taking direction from the director.",
+    "location": "Atlanta, GA",
+    "salary": "Per day",
+    "requirements": [
+      "Comfortable taking direction",
+      "Availability for filming"
+    ]
+  }
+]
