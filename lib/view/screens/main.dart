@@ -1,8 +1,7 @@
 import 'package:acting_in_the_uae/view/screens/login.dart';
 import 'package:flutter/material.dart';
-import 'package:acting_in_the_uae/view/screens/JobOptionscreen.dart'; // Import the JobOptionsScreen
-import 'package:shared_preferences/shared_preferences.dart';
 import 'MainScreen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,6 +23,9 @@ class MyApp extends StatelessWidget {
           return MaterialApp(
             title: 'Flutter Demo',
             theme: ThemeData(
+              textTheme: const TextTheme(
+                bodySmall: TextStyle(color: Colors.grey), // Change hint text color to grey
+              ),
               colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
               useMaterial3: true,
             ),

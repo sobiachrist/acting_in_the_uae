@@ -1,27 +1,27 @@
 class CastingDetails {
   final String header;
-  final dynamic date; // Assuming date can be null or have a specific format
+  final String date;
   final String phoneNumber;
   final String country;
-  final dynamic contactDetails; // Assuming contactDetails can be null or have a specific format
+  final String contactDetails;
   final String description;
 
   CastingDetails({
-    required this.header,
-    required this.date,
-    required this.phoneNumber,
-    required this.country,
-    required this.contactDetails,
-    required this.description,
+    this.header = '',
+    this.date = '',
+    this.phoneNumber = '',
+    this.country = '',
+    this.contactDetails = '',
+    this.description = '',
   });
 
   factory CastingDetails.fromJson(Map<String, dynamic> json) {
     return CastingDetails(
       header: json['header'] ?? '',
-      date: json['date'], // Adjust the data type as per the expected format
+      date: json['date'] ?? '',
       phoneNumber: json['phoneNumber'] ?? '',
       country: json['country'] ?? '',
-      contactDetails: json['contactDetails'], // Adjust the data type as per the expected format
+      contactDetails: json['contactDetails'] ?? '',
       description: json['description'] ?? '',
     );
   }

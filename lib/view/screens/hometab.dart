@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../../model/job.dart';
-import 'jobdetailscreen.dart';
 
 class HomeTab extends StatefulWidget {
   const HomeTab({Key? key}) : super(key: key);
@@ -45,14 +44,14 @@ class _HomeTabState extends State<HomeTab> {
             onTap: () {
               // Handle item tap
               // Navigate to JobDetailScreen when ListTile is tapped
-              Navigator.push(
+              /*Navigator.push(
                   context,
                   MaterialPageRoute(
                   builder: (context) => JobDetailScreen(
                   title: job.title,
                   description: job.description),
               ),
-              );
+              );*/
             },
           );
         },

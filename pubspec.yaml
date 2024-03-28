@@ -63,6 +63,10 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/logo.png
+    - assets/images/casting.png
+    - assets/images/crew.png
+    - assets/images/hirecrew.png
+    - assets/images/hire.png
 
     - assets/jobs.json
   # To add assets to your application, add an assets section, like this:
